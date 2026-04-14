@@ -1,4 +1,4 @@
-# Cosmic Crypto Wallet
+#  Crypto Wallet
 
 Self-custody crypto wallet. One file. No server. No KYC.
 
